@@ -1,0 +1,8 @@
+indexfile = README.md
+template = res/template.txt
+listfolder = res/pluginlist/
+pathtoplugins = Working/
+webroot = https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/
+pluginurl = https://github.com/zuckungtest/EndlessSky-PluginArchive/tree/main/Working/
+assetfullpath = https://github.com/zuckungtest/EndlessSky-PluginArchive/releases/download/Latest/
+newsamount = 15
