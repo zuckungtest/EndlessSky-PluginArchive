@@ -1,6 +1,6 @@
 name: Plugin Submission
 description: Submit a new plugin to the archive
-assignees: zuckungtest
+#assignees: zuckungtest
 labels: New Submission
 title: New Plugin Submission
 body:
