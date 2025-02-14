@@ -23,5 +23,5 @@ jobs:
           body: This is a script generated PR.
           branch-suffix: timestamp
           delete-branch: true
-          assignees: Hecter94
-          reviewers: Hecter94
+          assignees: zuckungtest
+          reviewers: zuckungtest
