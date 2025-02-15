@@ -5,6 +5,9 @@
 (latest 15 entries):
 <table><tr><td width=800>
 
+2025-02-15 | New plugin 'automata.in.human.space' by zuckung | [gameplay](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/gameplay.md#automatainhumanspace)<br>
+2025-02-15 | New plugin 'quarg.farm' by zuckung | [cheats](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/cheats.md#quargfarm)<br>
+2025-02-15 | New plugin 'too.many.asteroids' by zuckung | [overhauls](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/overhauls.md#toomanyasteroids)<br>
 2025-02-13 | Updated plugin human.labels | Plugin was deleted or renamed <br>
 2025-02-13 | Updated plugin The Iltan Race | Plugin was deleted or renamed <br>
 2025-02-13 | Updated plugin Rumskib | Plugin was deleted or renamed <br>
@@ -17,9 +20,6 @@
 2025-02-10 | Updated plugin bunrodea.missions | Plugin was deleted or renamed <br>
 2025-02-07 | Updated plugin Lost in Midnight | Plugin was deleted or renamed <br>
 2025-02-07 | Updated plugin jump.gates | Plugin was deleted or renamed <br>
-2025-02-06 | Updated plugin additional.command.buttons.radial | Plugin was deleted or renamed <br>
-2025-02-06 | Updated plugin expert.crew.members | Plugin was deleted or renamed <br>
-2025-02-06 | Updated plugin Naltok | Plugin was deleted or renamed <br>
 
 </td></tr></table>
 Provide a direct link to your zipped plugin to enable automatic updating.<br>
@@ -62,7 +62,7 @@ Provide a direct link to your zipped plugin to enable automatic updating.<br>
 
 # Introduction
 
-A comprehensive library of 1 ancient and new plugins for the open-source game Endless Sky.
+A comprehensive library of 4 ancient and new plugins for the open-source game Endless Sky.
 
 ---
 
@@ -216,10 +216,10 @@ To keep these files related, you must give them the same name.
 
 # Plugin Download
 
-All Plugins (1)
+All Plugins (4)
 
-[Cheats](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/cheats.md) (1) | [Gameplay](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/gameplay.md) (0) | [Graphics](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/graphics.md) (0) | [Outfits](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/outfits.md) (0)<br>
-[Overhauls](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/overhauls.md) (0) | [Overwrites](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/overwrites.md) (0) | [Patches](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/patches.md) (0) | [Races](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/races.md) (0)<br>
+[Cheats](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/cheats.md) (2) | [Gameplay](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/gameplay.md) (1) | [Graphics](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/graphics.md) (0) | [Outfits](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/outfits.md) (0)<br>
+[Overhauls](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/overhauls.md) (1) | [Overwrites](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/overwrites.md) (0) | [Patches](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/patches.md) (0) | [Races](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/races.md) (0)<br>
 [Ships](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/ships.md) (0) | [Starts](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/starts.md) (0) | [Story](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/story.md) (0) | [Weapons](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/weapons.md) (0)<br>
 [Uncategorized](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/uncategorized.md) (0)<br>
 

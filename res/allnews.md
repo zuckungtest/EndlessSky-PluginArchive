@@ -1,3 +1,6 @@
+2025-02-15 | New plugin 'automata.in.human.space' by zuckung | [gameplay](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/gameplay.md#automatainhumanspace)<br>
+2025-02-15 | New plugin 'quarg.farm' by zuckung | [cheats](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/cheats.md#quargfarm)<br>
+2025-02-15 | New plugin 'too.many.asteroids' by zuckung | [overhauls](https://github.com/zuckungtest/EndlessSky-PluginArchive/blob/main/res/mds/overhauls.md#toomanyasteroids)<br>
 2025-02-13 | Updated plugin human.labels | Plugin was deleted or renamed <br>
 2025-02-13 | Updated plugin The Iltan Race | Plugin was deleted or renamed <br>
 2025-02-13 | Updated plugin Rumskib | Plugin was deleted or renamed <br>
