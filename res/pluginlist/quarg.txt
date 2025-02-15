@@ -1,0 +1,6 @@
+author=yyy
+website=N/A
+directlink=N/A
+category=Cheats
+status=gdg
+description=The Iltan Race" adds the Iltans, along with their systems, ships, outfits, missions, and a new start.
