@@ -1,7 +1,7 @@
 import os 
 
-content = os.environ['ISSUE_INPUT']
-content = content.replace('"', "'")
+content = os.environ['ISSUE']
+#content = content.replace('"', "'")
 	
 # read paths and files
 with open("res/config.txt") as f:
