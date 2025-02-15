@@ -13,8 +13,10 @@ jobs:
         with:
           fetch-depth: 2
       - name: Create txt file out of issue body
-        run: |
-          ISSUE_INPUT="${{ github.event.issue.body }}" python3 res/src/onissue.py
+        env:
+          ISSUE: "${{ github.event.issue.body }}"
+#        run: |
+#          ISSUE_INPUT="${{ github.event.issue.body }}" python3 res/src/onissue.py
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
