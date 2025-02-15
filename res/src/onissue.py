@@ -1,6 +1,6 @@
 import os 
 
-content = os.environ['ISSUE']
+content = os.environ['ISSUE_INPUT']
 #content = content.replace('"', "'")
 	
 # read paths and files
